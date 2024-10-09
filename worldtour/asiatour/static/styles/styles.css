@@ -1,0 +1,14 @@
+body{
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 2rem;
+
+}
+
+img{
+    width: 40rem;
+}
+
+li{
+    list-style: none;
+}
